@@ -9,27 +9,27 @@ avatarDesc: Java/学习
 url: "http://zhangzhipengde.github.io"
 
 # Comment
-comment:
+#comment:
     # disqus: leopard
-    duoshuo: leopard 
+    #duoshuo: leopard 
 
 # Social
-social:
-    weibo:  
-    github: zhangzhipengde
+#social:
+    #weibo:  
+    #github: zhangzhipengde
     # twitter: 
-    mail: 453271050@qq.com
+    #mail: 453271050@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id
+#baidu:
+    #id
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: 
-    host: auto  
+#ga:
+    #id: 
+    #host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
