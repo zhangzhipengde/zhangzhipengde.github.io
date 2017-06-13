@@ -10,8 +10,8 @@ url: "http://zhangzhipengde.github.io"
 
 # Comment
 comment:
-    # disqus: leopard
-    duoshuo: leopard 
+    disqus: leopard
+    #duoshuo: leopard 
 
 # Social
 #social:
