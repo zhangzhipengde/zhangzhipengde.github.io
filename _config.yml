@@ -11,15 +11,15 @@ url: "http://zhzhip.com"
 # Comment
 comment:
     #disqus: leopard
-    #duoshuo: zhzhip
-    wyygt: zhzhip
+    duoshuo: zhzhip
+    #wyygt: zhzhip
 
 # Social
 #social:
     #weibo:  
     #github: zhangzhipengde
     # twitter: 
-    #mail: 453271050@qq.com
+    #mail: 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
