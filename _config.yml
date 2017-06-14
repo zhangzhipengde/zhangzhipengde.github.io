@@ -23,8 +23,8 @@ comment:
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-#baidu:
-    #id
+baidu:
+    id:e23d79bf51f8f102e4279db63c8f1743
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
