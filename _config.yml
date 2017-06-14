@@ -11,7 +11,8 @@ url: "http://zhzhip.com"
 # Comment
 comment:
     #disqus: leopard
-    duoshuo: zhzhip
+    #duoshuo: zhzhip
+    wyygt: zhzhip
 
 # Social
 #social:
