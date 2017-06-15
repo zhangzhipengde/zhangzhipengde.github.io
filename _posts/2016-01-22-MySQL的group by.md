@@ -35,6 +35,8 @@ dept
 > SELECT dept,MAX(salary) FROM employee GROUP BY dept
 
 得到的值为
+
+
 dept | max(salary)
 ----|----|----
 开发部 | 2500
@@ -53,6 +55,8 @@ GROUP BY DEPT, EDLEVEL
 
 
 得到的值为
+
+
 DEPT | EDLEVEL | MAXIMUM
 ----|----|---
 设计部 | 4 | 2300
@@ -75,6 +79,8 @@ ORDER BY DEPT
 
 得到的值为
 
+
+
 DEPT | MAXIMUM | MINIMUM
 --|----|----|----
 设计部 | 260 | 2100
@@ -94,6 +100,8 @@ ORDER BY DEPT
 
 
 得到的值为
+
+
 DEPT | MAXIMUM | MINIMUM
 ----|----|----
 销售部 | 3500 | 3000
